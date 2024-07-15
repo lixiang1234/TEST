@@ -1,0 +1,5 @@
+﻿  Animate.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+D:\source\repos\Animate\Animate\Animate.cpp(662,31): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+D:\source\repos\Animate\Animate\Animate.cpp(703,30): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Animate.vcxproj -> D:\source\repos\Animate\x64\Debug\Animate.exe

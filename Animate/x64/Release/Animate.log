@@ -1,0 +1,4 @@
+﻿  Animate.cpp
+D:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.38.33130\atlmfc\include\afx.h(24,1): error C1189: #error:  Building MFC application with /MD[d] (CRT dll version) requires MFC shared dll version. Please #define _AFXDLL or do not use /MD[d]
+  (编译源文件“Animate.cpp”)
+  
